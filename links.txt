@@ -1,0 +1,5 @@
+https://unfuddle.com/stack/tips-tricks/git-error-you-need-to-resolve-your-current-index-first/
+https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/
+https://devconnected.com/how-to-delete-file-on-git/
+https://rewind.com/blog/recovering-deleted-files-in-github/
+https://docs.netapp.com/us-en/sc-plugin-vmware-vsphere/scpivs44_restore_deleted_vms_from_backups.html
